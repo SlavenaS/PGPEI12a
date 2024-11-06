@@ -1,0 +1,11 @@
+C:\slavena12a\kotkata\kotkata\bin\Debug\kotkata.exe.config
+C:\slavena12a\kotkata\kotkata\bin\Debug\kotkata.exe
+C:\slavena12a\kotkata\kotkata\bin\Debug\kotkata.pdb
+C:\slavena12a\kotkata\kotkata\obj\Debug\kotkata.csproj.AssemblyReference.cache
+C:\slavena12a\kotkata\kotkata\obj\Debug\kotkata.Form1.resources
+C:\slavena12a\kotkata\kotkata\obj\Debug\kotkata.Properties.Resources.resources
+C:\slavena12a\kotkata\kotkata\obj\Debug\kotkata.csproj.GenerateResource.cache
+C:\slavena12a\kotkata\kotkata\obj\Debug\kotkata.csproj.CoreCompileInputs.cache
+C:\slavena12a\kotkata\kotkata\obj\Debug\kotkata.exe
+C:\slavena12a\kotkata\kotkata\obj\Debug\kotkata.pdb
+C:\slavena12a\kotkata\kotkata\obj\Debug\kotkata.Form2.resources
