@@ -18,17 +18,19 @@ namespace KinoKursov
             string projekciq = comboBox1.SelectedItem.ToString();
             int red = int.Parse(textBox1.Text);
             int coloni = int.Parse(textBox2.Text);
-
+            //Premiera-12,00
+            //Normalno - 7,50
+            //Namaleno - 5,00
             double cenaNaBilet = 0;
-            if (projekciq == "Премиера-12,00лв.")
+            if (projekciq == "Premiera-12,00")
             {
                 cenaNaBilet = 12;
             }
-            else if (projekciq == "Нормално-7,50лв.")
+            else if (projekciq == "Normalno - 7,50")
             {
                 cenaNaBilet = 7.50;
             }
-            else if (projekciq == "Намалено-5,00лв.")
+            else if (projekciq == "Namaleno - 5,00")
             {
                 cenaNaBilet = 5.00;
             }

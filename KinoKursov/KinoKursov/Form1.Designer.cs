@@ -67,7 +67,7 @@
             // 
             comboBox1.Font = new Font("Tahoma", 10.2F, FontStyle.Italic, GraphicsUnit.Point, 204);
             comboBox1.FormattingEnabled = true;
-            comboBox1.Items.AddRange(new object[] { "Премиера-12,00лв.", "Нормално-7,50лв.", "Намалено-5,00лв." });
+            comboBox1.Items.AddRange(new object[] { "Premiera-12,00", "Normalno-7,50", "Namaleno-5,00" });
             comboBox1.Location = new Point(164, 32);
             comboBox1.Name = "comboBox1";
             comboBox1.Size = new Size(172, 29);
