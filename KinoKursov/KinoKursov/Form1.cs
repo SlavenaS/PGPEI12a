@@ -22,7 +22,7 @@ namespace KinoKursov
             //Normalno - 7,50
             //Namaleno - 5,00
             double cenaNaBilet = 0;
-            if (projekciq == "Premiera-12,00")
+            if (projekciq == "Premiera - 12,00")
             {
                 cenaNaBilet = 12;
             }
